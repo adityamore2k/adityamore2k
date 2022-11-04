@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityamore2k
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning front end web development.
+- 🌱 I’m currently learning backend web development.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me - You can email me on adityadmore2000@gmail.com
 

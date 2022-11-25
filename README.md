@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityamore2k
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning backend web development.
-- 💞️ I’m looking to collaborate on web development projects.
+- 🌱 I’m currently working on machine learning x web development(MERN Stack) Projects.
+- 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me - You can email me on adityadmore2000@gmail.com
 
 <!---
